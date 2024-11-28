@@ -1,6 +1,8 @@
-const persona = {
-  nome: "Maks",
-  eta: 18,
-};
+function Oes4() {
+  const persona = {
+    nome: "Maks",
+    eta: 18,
+  };
 
-console.log("sesso:", (persona.sesso = "uomo"));
+  alert("sesso: " + (persona.sesso = "uomo"));
+}

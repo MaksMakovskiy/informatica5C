@@ -1,9 +1,11 @@
-const persona = {
-  nome: "Maks",
-  eta: 18,
-  sesso: "banana",
-};
+function Oes8() {
+  const persona = {
+    nome: "Maks",
+    eta: 18,
+    sesso: "banana",
+  };
 
-var personaCopia = persona;
+  var personaCopia = persona;
 
-console.log(personaCopia);
+  alert(personaCopia);
+}

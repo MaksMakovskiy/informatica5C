@@ -1,6 +1,8 @@
-const persona = {
-  nome: "Maks",
-  eta: 18,
-};
+function Oes1() {
+  const persona = {
+    nome: "Maks",
+    eta: 18,
+  };
 
-console.log(persona);
+  alert(persona);
+}

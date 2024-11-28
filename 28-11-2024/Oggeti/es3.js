@@ -1,6 +1,8 @@
-const persona = {
-  nome: "Maks",
-  eta: 18,
-};
+function Oes3() {
+  const persona = {
+    nome: "Maks",
+    eta: 18,
+  };
 
-console.log("eta:", (persona.eta = 3));
+  alert("eta: " + (persona.eta = 3));
+}

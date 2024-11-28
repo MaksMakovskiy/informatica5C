@@ -1,5 +1,6 @@
-function Arrayes10()
-{const a = ["Привет", "как", "дела у вас?"];
-const sU = a.join(" ");
+function Aes10() {
+  const a = ["Привет", "как", "дела у вас?"];
+  const sU = a.join(" ");
 
-alert("Stringa unita: " + sU);}
+  alert("Stringa unita: " + sU);
+}

@@ -1,6 +1,8 @@
-const persona = {
-  nome: "Maks",
-  eta: 18,
-};
+function Oes5() {
+  const persona = {
+    nome: "Maks",
+    eta: 18,
+  };
 
-console.log("eta delete:", delete persona.eta);
+  alert("eta delete: " + delete persona.eta);
+}
